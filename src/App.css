@@ -1,0 +1,76 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;500;600&display=swap'); */
+
+.App {
+  text-align: center;
+  /* font-family: 'Rubik', sans-serif; */
+}
+/* p{
+  font-size: 15px;
+  font-weight: 300
+} */
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+p{
+  font-size: 15px;
+}
+li{
+  font-size: 15px;
+  line-height: 28px;
+}
+.icon-bar {
+  position: fixed;
+ right: 0;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  z-index: 9999999;
+ 
+
+}
+.icon-bar .sticky-icon {
+  display:block;
+  text-align: center;
+ /* background-color: #0b4a99; */
+  padding: 16px;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 20px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #fff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #000;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media only screen and (max-width: 600px) {
+
+}
+

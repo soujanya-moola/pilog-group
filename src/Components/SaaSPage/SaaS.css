@@ -1,0 +1,74 @@
+.schedule-demo{
+    margin-left: -2rem;
+    padding: 1px;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 0 10px  10px 0;
+}
+.Subscription-list{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    text-align: left;
+    padding: 1rem;
+}
+.subscription-icons{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 2px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap:1rem;
+    
+}
+.s-icon:hover{
+
+    transform: scale(1.2);
+}
+.s-icon p{
+    font-size: 10px;
+}
+.purchase-btn{
+    background-color: #0b4a99 !important;
+    border-radius: 10px !important;
+    border: none;
+}
+.subscription-heading{
+    color: #0b4a99;
+}
+.saas-card-icons{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+}
+.faq-headind{
+    font-size: 20px !important;
+    font-weight: 500 !important;
+    color: #0b4a99;
+    
+    display: flex;
+    text-align: left;
+}
+.faq-content{
+    font-size: 18px !important;
+    display: flex;
+    text-align: left;
+    line-height: 30px;
+}
+.youtube-btn{
+    background-color: #cb1619 !important;
+    color: white !important;
+border: none;
+
+}
+.saas-faq-content{
+    display: flex;
+    justify-content: space-between;
+    gap: 3rem;
+}

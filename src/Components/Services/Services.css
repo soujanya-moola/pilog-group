@@ -1,0 +1,337 @@
+.nav-tabs .nav-link.active{
+    background: blue !important;
+    color: white;
+}
+.nav-tabs .nav-link{
+    border: 1px solid #000;
+    color: #000;
+}
+
+.dh{
+    top: 35%!important;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+    margin-left: 3rem;
+}
+.dh-row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    margin: 3rem 0;
+    line-height: 28px;
+}
+.dh-1-img{
+    width: 380px;
+    height: 350px;
+    border-radius: 10px;
+}
+.dh-2-img{
+    width: 340px;
+    height: 250px;
+    border-radius: 10px;
+}
+.dh-2-div{
+    background: rgb(244, 245, 245);
+    
+}
+.dh-row-down{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    margin: 1.5rem 0;
+    line-height: 28px;
+}
+/* Data Analyst CSS */
+.da-discription{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+}
+.da-key-offer{
+    margin: 3rem 0;
+    background: rgb(244, 245, 245);
+    padding: 2rem;
+}
+.da-key-offer h4{
+color: #0b4a99;
+}
+.key-offer{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: left;
+    gap: 3rem;
+    
+}
+.da-points{
+    display: flex;
+    justify-content: center;
+    line-height: 40px;
+}
+.da-data{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+    gap: 1rem;
+    padding: 1rem;
+}
+.da-data h4{
+    color: #0b4a99;
+}
+
+/* Data Migration */
+
+.dm-part1-contyent{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+}
+.dm-part2{
+    background: #ebecec;
+    padding: 0.5rem;
+    margin: 2rem 0;
+}
+
+/* Digital Transformation */
+
+.services-dt{
+    background: url('../Assets//Services/dt-banner-large.jpg');
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    color: #fff;
+    padding: 8rem;
+    text-align: left;
+}
+.dt-part1-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:flex-start;
+    text-align: left;
+}
+.dt-part1-content h4{
+    text-align: left;
+    margin: 1rem 0;
+    color: #0b4a99;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+.service-dt-part2{
+    background-color: #e8e9eb;
+    
+}
+.service-dt-part-li{
+    background: #ebecec;
+}
+.service-dt-part-li h3{
+   
+color: #0b4a99;
+}
+.dt-part-li-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:flex-start;
+    text-align: left;
+    line-height: 35px;
+}
+
+/* Data Archiving CSS */
+.service-dau{
+    background: url('../Assets/Services/dau-banner-large.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    padding: 9rem;
+    text-align: left;
+}
+.daa-desc{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+}
+.dau-keypoints h4{
+    color: #0b4a99;
+}
+
+.dau-keypoints{
+    margin: 3rem 0;
+    background: rgb(244, 245, 245);
+    padding: 2rem;
+}
+
+.keypoints{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: left;
+    gap: 3rem;
+    
+}
+.dau-points{
+    display: flex;
+    justify-content: center;
+    line-height: 30px;
+}
+/* iSPIR Management */
+.services-ispir{
+    background: url('../Assets/Services/ispir-banner-large.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    padding: 9rem;
+    text-align: left;
+}
+.services-ispir-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    text-align: left;
+    margin: 2rem 0;
+    padding: 1rem 0;
+}
+.services-ispir-content h4{
+    color: #0b4a99;
+}
+.service-ispir-last{
+    margin-top: 3rem;
+    background: rgb(244, 245, 245);
+    padding: 2rem 0;
+
+}
+.service-ispir-last-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    line-height: 35px;
+}
+
+.services-dha{
+    background: url('../Assets/Services/dha-banner-large.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    padding: 9rem;
+    text-align: left;
+}
+.service-dha-content{
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    padding: 2rem 0;
+}
+
+/* PM Data Aquasition */
+
+.services-pmdaa{
+    background: url('../Assets/Services/PM_DatA_Acquisition_banner.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #000;
+    padding: 9rem;
+    text-align: left;
+}
+.services-pvfdc{
+    background: linear-gradient(rgb(0 8 24 / 86%), rgb(78 89 110 / 84%)), url('../Assets/Services/physical-verification.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    padding: 9rem;
+    text-align: left;
+}
+/* Management Consulting */
+
+.service-mc{
+    background:url('../Assets/Services/management-consulting.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #000;
+    padding: 9rem;
+    text-align: left;
+}
+
+/* Fixed Assets */
+.service-far{
+    background:url('../Assets/Services/fixed-asset-register.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    padding: 9rem;
+    text-align: left;
+}
+/* Data Consulting Services */
+.service-dcs{
+    background: linear-gradient(rgb(0 8 24 / 86%), rgb(78 89 110 / 84%)),url('../Assets/Services/Data_Management_Banner.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    padding: 9rem;
+    text-align: left;
+}
+/* Spend Analytics */
+.services-sa{
+    background:url('../Assets/Services/spend-analytics.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #000;
+    padding: 9rem;
+    text-align: left;
+}
+.spend-analysis{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    text-align: left;
+}
+.spend-analysis h6{
+    color: #0b4a99;
+    font-size: 18px;
+}
+/* Material Criticality Analysis */
+.service-mca{
+    background:url('../Assets/Services/mca-banner.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #000;
+    padding: 9rem;
+    text-align: left;
+}
+.mca-benifits{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    text-align: left;
+}
+.mca-analisys{
+   height: fit-content;
+   padding: 2rem 0;
+}
+
+/* Equipment Criticality Analysis */
+
+.services-eca{
+    background:url('../Assets/Services/eca/eca-banner.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    padding: 9rem;
+    text-align: left;
+}

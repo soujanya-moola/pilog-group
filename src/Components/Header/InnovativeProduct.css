@@ -1,0 +1,149 @@
+.drop-tab1-inn {
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    width: 27%;
+    height: 320px;
+   
+
+  }
+  .drop-tab2-inn {
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    width: 27%;
+    height: 320px;
+   
+  }
+
+  
+  .drop-tab1-inn button {
+    display: block;
+  background-color: inherit;
+  color: black;
+  /* padding: 20px 15px; */
+  width: 100%;
+  border: none;
+  outline: none;
+  text-align: left;
+  cursor: pointer;
+  line-height: 5px;
+  font-size: 13px;
+  margin-left: 1rem;
+  margin-top: 0.7rem;
+  }
+  .drop-tab2-inn button {
+    display: block;
+  background-color: inherit;
+  color: black;
+  /* padding: 20px 15px; */
+  width: 100%;
+  border: none;
+  outline: none;
+  text-align: left;
+  cursor: pointer;
+  line-height: 5px;
+  font-size: 13px;
+  margin-left: 1rem;
+  margin-top: 0.7rem;
+  }
+  
+  .drop-tab1-inn button .in-link:hover {
+  
+    color: #0b4a99;
+  }
+  
+ 
+  .drop-tab2-inn button .in-link:hover {
+   
+    color: #0b4a99;
+  }
+  
+ 
+  .drop-tabcontent-inn {
+    float: left;
+  padding: 2px 12px;
+  border: 1px solid #ecebf5;
+  width: 45%;
+  border-left: none;
+  height: 320px;
+  display: none;
+  line-height: 10px;
+  
+ 
+  }
+  .drop-tabcontent-inn.active {
+    display: block;
+    background-color: #ebeff3;
+    
+   
+  }
+  .nav-drop-img{
+    width: 500px;
+    margin-left: 1rem;
+    margin-top: 2rem;
+  }
+
+.drop-tab1 h5{
+    color: #0b4a99;
+    text-align: center;
+    margin: 5px;
+}
+.drop-tab2 h5{
+    color: #0b4a99;
+    text-align: center;
+    margin: 5px;
+}
+
+
+.mdrm-heading{
+  font-size: 45px;
+  color: #0b4a99;
+}
+.mdrm-version{
+  color: #cb1619;
+  font-size: 28px;
+}
+.mdrm-capabilities{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  text-align: left;
+  padding: 1rem 1rem;
+  
+}
+.mdrm-capabilities h6{
+  line-height: 20px;
+  letter-spacing: 1;
+  word-spacing: 1px;
+}
+.mdrm-sol{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: left;
+ 
+}
+.mdrm-sol h6{
+  padding-top: 1rem;
+  font-size: 18px;
+
+}
+.mdrm-sol h6 span{
+  color: rgb(248, 114, 5);
+}
+.mdrm-oracle{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  text-align: left;
+  margin-top: 2rem;
+  gap: 1.5rem;
+}
+.mdrm-data-slide{
+  height: 280px;
+  margin-top: 2rem;
+}

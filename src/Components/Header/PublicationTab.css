@@ -1,0 +1,70 @@
+.drop-tab1-public {
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    width: 50% !important;
+    height: 280px;
+   
+
+  }
+ 
+
+  
+  .drop-tab1-public button {
+    display: block;
+  background-color: inherit;
+  color: black;
+  /* padding: 20px 15px; */
+  width: 100%;
+  border: none;
+  outline: none;
+  text-align: left;
+  cursor: pointer;
+  line-height: 15px;
+  font-size: 15px;
+  margin-left: 3rem !important;
+  margin-top: 0.8rem;
+  }
+  
+  .drop-tab1-public button .public-link:hover {
+  
+    color: #0b4a99;
+  }
+  
+ 
+  
+ 
+  .drop-tabcontent-public {
+    float: left;
+  padding: 2px 12px;
+  border: 1px solid #ecebf5;
+  width: 50%;
+  border-left: none;
+  height: 280px !important;
+  display: none;
+  
+  
+ 
+  }
+  .drop-tabcontent-public.active {
+    display: block;
+    background-color: #ebeff3;
+    
+   
+  }
+  .nav-drop-img{
+    width: 450px;
+    margin-left: 1rem;
+    margin-top: 2rem;
+  }
+
+.drop-tab1 h5{
+    color: #0b4a99;
+    text-align: center;
+    margin: 5px;
+}
+.drop-tab2 h5{
+    color: #0b4a99;
+    text-align: center;
+    margin: 5px;
+}

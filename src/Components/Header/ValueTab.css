@@ -1,0 +1,90 @@
+.drop-tab1-value {
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    width: 55% !important;
+    height: 320px;
+   
+
+  }
+ 
+
+  
+  .drop-tab1-value button {
+    display: block;
+  background-color: inherit;
+  color: black;
+  /* padding: 20px 15px; */
+  width: 100%;
+  border: none;
+  outline: none;
+  text-align: left;
+  cursor: pointer;
+  line-height: 8px;
+  font-size: 15px;
+  margin-left: 4rem;
+  margin-top: 1.2rem;
+  }
+  .drop-tab2 button {
+    display: block;
+  background-color: inherit;
+  color: black;
+  /* padding: 20px 15px; */
+  width: 100%;
+  border: none;
+  outline: none;
+  text-align: left;
+  cursor: pointer;
+  line-height: 30px;
+  font-size: 13px;
+  margin-left: 1rem;
+  
+  }
+  
+  .drop-tab1-value button .value-link:hover {
+    background-color: inherit;
+  
+    color: #0b4a99;
+  }
+  
+ 
+  .drop-tab2 button Link:hover {
+   
+    color: #0b4a99;
+  }
+  
+ 
+  .drop-tabcontent-val {
+    float: left;
+  padding: 2px 12px;
+  border: 1px solid #ecebf5;
+  width: 45%;
+  border-left: none;
+  height: 320px !important;
+  display: none;
+  
+  
+ 
+  }
+  .drop-tabcontent-val.active {
+    display: block;
+    background-color: #ebeff3;
+    
+   
+  }
+  .nav-drop-img{
+    width: 500px;
+    margin-left: 1rem;
+    margin-top: 2rem;
+  }
+
+.drop-tab1 h5{
+    color: #0b4a99;
+    text-align: center;
+    margin: 5px;
+}
+.drop-tab2 h5{
+    color: #0b4a99;
+    text-align: center;
+    margin: 5px;
+}

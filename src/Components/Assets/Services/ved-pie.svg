@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 720 400" style="enable-background:new 0 0 720 400;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#40875E;}
+	.st1{fill:#F0AB00;}
+	.st2{fill:#A8A240;}
+	.st3{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st4{fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#939598;stroke-width:0.5;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#939598;stroke-miterlimit:10;}
+	.st7{fill:none;stroke:#231F20;stroke-width:2;stroke-miterlimit:10;}
+	.st8{fill:#231F20;}
+	.st9{opacity:0.9;fill:#40875E;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st10{opacity:0.9;fill:#A8A240;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st11{opacity:0.9;fill:#F0AB00;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st12{fill:#414042;}
+	.st13{fill:#E6E7E8;stroke:#000000;stroke-miterlimit:10;}
+	.st14{fill:#00AEEF;}
+	.st15{opacity:0.3;fill:none;stroke:#414042;stroke-miterlimit:10;}
+	.st16{fill:none;stroke:#414042;stroke-miterlimit:10;}
+	.st17{font-family:'Nunito-SemiBold';}
+	.st18{font-size:25.6559px;}
+	.st19{font-size:17.8363px;}
+	.st20{fill:#FFFFFF;}
+	.st21{font-size:11.3676px;}
+</style>
+<rect class="st3" width="720" height="400"/>
+<text transform="matrix(1 0 0 1 180.668 58.0025)" class="st17 st18">Inventory Consumption in VED</text>
+<rect x="452.2" y="208" class="st0" width="14" height="14"/>
+<rect x="452.2" y="237" class="st2" width="14" height="14"/>
+<rect x="452.2" y="266" class="st1" width="14" height="14"/>
+<text transform="matrix(0.9935 0 0 1 480.1612 219.307)"><tspan x="0" y="0" class="st17 st19">V -  High </tspan><tspan x="0" y="30" class="st17 st19">E-  Medium </tspan><tspan x="0" y="60" class="st17 st19">D -  Low </tspan></text>
+<g>
+	<path class="st0" d="M326,199.8l-135.8,21.1V100c-77.9,0.3-140.9,63.5-140.9,141.4c0,0.4,0,0.9,0,1.3
+		c0.7,77.3,63.4,139.8,140.9,140.1c0.2,0,0.4,0,0.6,0c78.1,0,141.4-63.3,141.4-141.4C332.2,227,330,213,326,199.8z"/>
+	<path class="st1" d="M190.8,100c-0.2,0-0.4,0-0.6,0v120.9l2.4-0.4L257,116.5C237.3,106,214.7,100,190.8,100z"/>
+	<path class="st2" d="M257,116.5l-64.4,104.1L326,199.8C314.9,163.8,289.8,133.9,257,116.5z"/>
+	<rect x="113.9" y="255.3" class="st8" width="64.7" height="30.1"/>
+	<text transform="matrix(1 0 0 1 126.201 268.4182)"><tspan x="0" y="0" class="st20 st17 st21">V: 80%</tspan><tspan x="-7.1" y="13.6" class="st20 st17 st21">5.9 MSAR</tspan></text>
+	<rect x="158.8" y="115.7" class="st8" width="64.7" height="30.1"/>
+	<text transform="matrix(1 0 0 1 174.3148 128.7959)"><tspan x="0" y="0" class="st20 st17 st21">D: 8%</tspan><tspan x="-10.3" y="13.6" class="st20 st17 st21">2.3 MSAR</tspan></text>
+	<rect x="232.9" y="164.6" class="st8" width="70.4" height="30.1"/>
+	<text transform="matrix(1 0 0 1 248.5113 177.6391)"><tspan x="0" y="0" class="st20 st17 st21">R: 12%</tspan><tspan x="-5.8" y="13.6" class="st20 st17 st21">15 MSAR</tspan></text>
+</g>
+</svg>

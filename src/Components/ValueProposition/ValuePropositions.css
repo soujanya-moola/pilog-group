@@ -1,0 +1,68 @@
+.esco-part1{
+    text-align: left;
+    gap: 1rem;
+}
+
+.esco-part1 h1{
+    color: #0b4a99;
+    font-size: 45px;
+    font-weight: bold;
+}
+.esco-part1 h6{
+    padding-top: 1rem;
+    font-size: 18px;
+}
+.esco-part2{
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;    
+}
+.analize{
+    line-height: 40px;
+}
+.esco-table-1{
+    background: #0b4a99;
+    
+
+}
+.esco-table-sub{
+    background-color: #0b4a99 !important;
+}
+.Business-Outcomes{
+    line-height: 30px;
+}
+
+
+.bplcm{
+    background: linear-gradient(rgb(0 8 24 / 86%), rgb(78 89 110 / 84%)),  url('../Assets/ValueProposition/Business-Partner-Life-Cycle-Management/people-standing-office-holding-hands-together.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 10rem;
+    color: #fff;
+}
+
+
+.forword-Icon {
+   
+   
+    transform: rotate(90deg);
+}
+.icon-rotate{
+    font-size: 40px;
+}
+.sdm-flow{
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    align-items: flex-start;
+    
+}
+.sdm-flow h6{
+    background: #0b4a99;
+    color: #fff;
+    margin-left: 5px;
+    padding: 1rem;
+
+}
+

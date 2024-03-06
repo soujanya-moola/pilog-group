@@ -1,0 +1,110 @@
+
+.footer-part{
+    background: url(https://www.piloggroup.com/img/footer/footer-bg.jpg);
+    background-size: 100% 100%;
+    /* padding: 50px 0; */
+    color: #fff;
+    /* font-family: 'Poppins', sans-serif; */
+}
+.footer-main{
+   text-align: left;
+   padding: 2rem 0;
+   
+
+}
+.footer-main h6{
+    margin: 1rem;
+    font-size: 200;
+}
+.footer-btn{
+    margin-left: -1rem;
+}
+.quick-links{
+    text-align: left;
+    padding: 2rem 0;  
+}
+.quick-links h5{
+    padding: 0.5rem;
+    text-decoration: underline;
+    
+}
+.footer-sub{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer-logo{
+    width: 120px;
+    margin-left: 1rem;
+}
+/* .footer-sub-img{
+    width: 50%;
+display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5rem;
+} */
+.footer-icons{
+    box-sizing: border-box;
+    border: 2px solid #fff;
+    border-radius: 25px;
+    font-size: 35px !important;
+    color: #fff;
+    padding: 6px;
+   
+}
+.footer-icons:hover{
+    box-sizing: border-box;
+    border: 2px solid #0b4a99;
+    border-radius: 25px;
+    font-size: 35px !important;
+    color: #fff;
+    background-color: #0b4a99;
+    padding: 5px;
+   
+}
+.tooltips {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+   margin: 0 0.4em;
+    color: #f1f1f1;
+    padding: 0.5em 0em;
+    border-radius: 1em;
+    margin-top: -7px;
+  }
+  
+  .tooltips .tooltiptext {
+    visibility: hidden;
+    width: 80px;
+    background-color: #0b4a99;
+    color: #fff;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px;
+    position: absolute;
+    font-size: 14px;
+    z-index: 1;
+    bottom: 110%;
+    left: 50%;
+    transform: translateX(-50%);
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+  
+  .tooltips:hover .tooltiptext {
+    visibility: visible;
+  opacity: 1;
+  }
+  
+  .tooltips .tooltiptext::after {
+    content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  border-width: 8px;
+  border-style: solid;
+  border-color: #0b4a99 transparent transparent transparent;
+  transform: translateX(-50%);
+  }
+  

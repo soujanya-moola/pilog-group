@@ -1,0 +1,314 @@
+.hero-img{
+    width: 100%;
+    /* height: 500px; */
+}
+.hero-btn{
+background: #0b4a99;
+margin-left:-25rem ;
+}
+
+
+
+.carousel-indicators [data-bs-target]{
+    background-color: #0b4a99;
+    margin-bottom: 0rem !important;
+}
+
+
+
+.carousel-indicators .active{
+    background-color: #cb1619;
+}
+.client-logo{
+    width: 70%;
+    
+margin: 1rem -0.5rem;
+   
+}
+.news{
+    background: #cb1619;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    display: flex;
+   
+}
+.updates{
+    background: #0b4a99;
+    color: #fff;
+   
+    /* padding-top: 0.5rem; */
+}
+.news-marquee{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+   
+}
+.news-marquee p{
+    text-align: center !important;
+    margin-top: 7px;
+}
+.news-link{
+    color: #fff;
+    /* text-decoration: none; */
+    font-weight: 600;
+    margin-left: 5px;
+}
+
+.services{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 0.7rem;
+    margin: 5px;
+}
+.services p{
+    font-weight: 600;
+    text-align: center;
+}
+.services span{
+    font-weight: 700;
+    color: #cb1619;
+    font-size: 18px;
+    margin-bottom: 2px;
+    text-align: center;
+
+}
+.home-explore{
+    position: relative;
+  text-align: center;
+}
+.explore-img{
+    width: 100%;
+}
+.home-explore-content{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+  top: 50%;
+  left: 35%;
+  transform: translate(-50%, -50%);
+  text-align: left;
+  line-height: 35px;
+  gap: 1rem;
+}
+.home-explore-content h1{
+    font-size: 40px;
+    font-weight: 700;
+    
+}
+.home-explore-content p{
+    font-size: 18px;
+    font-weight: 500;
+   
+   
+}
+.products{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 1rem;
+   
+
+}
+.products h3{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: center;
+   
+
+}
+.products p{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: left;
+    margin: 1rem;
+    margin-left: 2rem;
+   
+
+}
+.products span{
+    margin-left: 2rem;
+    font-size: 46px;
+    font-weight: 100 !important;
+}
+.product-img{
+    width: 60px;
+    margin: 1rem;
+}
+.optimize{
+    background: url('https://www.piloggroup.com/img/navv.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #000;
+    padding: 5rem;
+    justify-content: center;
+    text-align: left;
+    align-items: center;
+    
+}
+.optimize h1{
+    font-size: 40px;
+    font-weight: 700;
+    
+}
+.optimize p{
+    font-size: 18px;
+    font-weight: 500;
+    margin-top:2rem ;
+    
+}
+.achive-top{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+}
+.achive-empty{
+    background: #cb1619;
+    width: 100px;
+    height: 3px;
+    content: "";
+   
+    
+    text-align: center;
+   
+}
+.achiev-img1{
+    width: 90px;
+}
+.achiev-img2{
+    width: 200px;
+}
+.achiev-img3{
+    width: 120px;
+}
+.reviews{
+    background: url('../Assets/HomePage/nav_reviews.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.review-card-img{
+    text-align: end;
+}
+.review-card-content{
+    text-align: left;
+    margin-top: 0px;
+}
+.review-btn{
+    margin-top: -0.5rem;
+    margin-bottom: 0.5rem;
+    width: 150px;
+    border-radius: 25px !important;
+    background: rgb(223, 199, 68);
+    color: #000;
+    font-weight: 600;
+    font-size: 18px;
+    border: none;
+}
+.review-block{
+    height: 180px;
+}
+.review-card{
+    background: #0b4a99;
+    margin: 1rem;
+    color: #fff;
+    padding: 1rem;
+}
+.ind-imgs{
+    width: 80%;
+    margin: 1rem;
+}
+.ind-imgs1{
+    width: 70%;
+   
+    margin-top: 1rem;
+ 
+
+}
+.ind-rec{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 0.5rem;
+}
+.ind-empty{
+    background: #cb1619;
+    height: 3px;
+    width: 100px;
+    
+}
+@media only screen and (max-width: 768px) {
+    .hero-img{
+        width: 100%;
+        
+    }
+    .hero-btn{
+        background: #0b4a99;
+        margin-left:-10rem ;
+        width: 90px;
+       size: small;
+        font-size: 12px;
+        margin-bottom: -3rem;
+        }
+        .carousel-indicators{
+            display: none;
+        }
+        .home-explore{
+            position:relative;
+            display: grid;
+            flex-direction: column;
+            justify-content: center;
+            background-color: #dadee4;
+        }
+        .home-explore-content{
+            position:relative;
+            display: grid;
+            flex-direction: column;
+            justify-content: center;
+            left: 50%;
+        }
+        .explore-img{
+           display: none;
+        }
+
+
+}
+@media only screen and (max-width: 438px) {
+    .hero-img{
+        width: 400px;
+        height: 220px;
+    }
+    .hero-btn{
+        background: #0b4a99;
+        margin-left:-10rem ;
+        width: 90px;
+       size: small;
+        font-size: 12px;
+        margin-bottom: -3rem;
+        }
+        .carousel-indicators{
+            display: none;
+        } 
+        .product-main {
+            
+        }
+        .products{
+            display: flex;
+            flex-direction: column;
+        }
+        .products span{
+            display: none;
+        }
+}
